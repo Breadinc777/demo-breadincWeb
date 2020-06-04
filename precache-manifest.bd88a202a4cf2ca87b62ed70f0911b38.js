@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b663bb3639efac52d159aed25ca0a166",
+    "revision": "8ba49c4ce1b8a08b13fed59ebf1f99c9",
     "url": "/demo-breadincWeb/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-breadincWeb/static/css/7.0ab0ac3b.chunk.css"
   },
   {
-    "revision": "6e05546b65692152345c",
+    "revision": "d41d1a9e4c726f0b5fad",
     "url": "/demo-breadincWeb/static/css/main.534bbe42.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-breadincWeb/static/js/8.a70e4372.chunk.js"
   },
   {
-    "revision": "6e05546b65692152345c",
-    "url": "/demo-breadincWeb/static/js/main.3250ea72.chunk.js"
+    "revision": "d41d1a9e4c726f0b5fad",
+    "url": "/demo-breadincWeb/static/js/main.2a5bb97e.chunk.js"
   },
   {
     "revision": "93d5a65b0da32088d52d",

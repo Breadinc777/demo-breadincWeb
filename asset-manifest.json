@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo-breadincWeb/static/css/main.534bbe42.chunk.css",
-    "main.js": "/demo-breadincWeb/static/js/main.3250ea72.chunk.js",
-    "main.js.map": "/demo-breadincWeb/static/js/main.3250ea72.chunk.js.map",
+    "main.js": "/demo-breadincWeb/static/js/main.2a5bb97e.chunk.js",
+    "main.js.map": "/demo-breadincWeb/static/js/main.2a5bb97e.chunk.js.map",
     "runtime-main.js": "/demo-breadincWeb/static/js/runtime-main.385e5114.js",
     "runtime-main.js.map": "/demo-breadincWeb/static/js/runtime-main.385e5114.js.map",
     "static/js/2.840a19fc.chunk.js": "/demo-breadincWeb/static/js/2.840a19fc.chunk.js",
@@ -25,7 +25,7 @@
     "static/js/8.a70e4372.chunk.js": "/demo-breadincWeb/static/js/8.a70e4372.chunk.js",
     "static/js/8.a70e4372.chunk.js.map": "/demo-breadincWeb/static/js/8.a70e4372.chunk.js.map",
     "index.html": "/demo-breadincWeb/index.html",
-    "precache-manifest.7e91f547a27bd2ca8a6a0b21ecab9ce7.js": "/demo-breadincWeb/precache-manifest.7e91f547a27bd2ca8a6a0b21ecab9ce7.js",
+    "precache-manifest.bd88a202a4cf2ca87b62ed70f0911b38.js": "/demo-breadincWeb/precache-manifest.bd88a202a4cf2ca87b62ed70f0911b38.js",
     "service-worker.js": "/demo-breadincWeb/service-worker.js",
     "static/css/3.9bccf27f.chunk.css.map": "/demo-breadincWeb/static/css/3.9bccf27f.chunk.css.map",
     "static/css/4.02a41d48.chunk.css.map": "/demo-breadincWeb/static/css/4.02a41d48.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.385e5114.js",
     "static/js/2.840a19fc.chunk.js",
     "static/css/main.534bbe42.chunk.css",
-    "static/js/main.3250ea72.chunk.js"
+    "static/js/main.2a5bb97e.chunk.js"
   ]
 }
